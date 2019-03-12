@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Z老师的博客
 
 You can use the [editor on GitHub](https://github.com/hnustz/hnustz.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
